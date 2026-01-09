@@ -25,5 +25,5 @@ dev = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["src*"]
+include = ["experience_memory*"]
 namespaces = false
